@@ -1,0 +1,8 @@
+﻿Word,Label,Confidence,Reason,Suggested_Correction
+नमस्ते,correct spelling,High,Structurally valid (High frequency),
+कंप्यूटर,correct spelling,High,Structurally valid (High frequency),
+प्रॉब्लम,correct spelling,High,Structurally valid (High frequency),
+कक्कक,correct spelling,High,Structurally valid (High frequency),
+क्रिएटिविडी,correct spelling,High,Structurally valid (High frequency),
+उसेकि,correct spelling,High,Structurally valid (High frequency),
+्ज्ञान,incorrect spelling,High,Starts with invalid dependent vowel,्ज्ञान
